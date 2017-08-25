@@ -10,7 +10,8 @@ Be warned: The vulnerabilitiy list might scare you.
 
 ## Usage
 
-Usage: python check_wp_plugin_dir.py path/to/plugin/directory
+Usage: 
+```python check_wp_plugin_dir.py path/to/plugin/directory```
 
 ## Output
 
